@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-label="Service Spectrum logo">
+  <!-- Ascending spectrum bars, rounded like the brand mark -->
+  <g>
+    <path d="M20 160 a30 30 0 0 1 30 -30 l0 30 z" fill="#F2A93B"/>
+    <path d="M58 160 l0 -35 a38 38 0 0 1 38 -38 l0 73 z" fill="#F07818"/>
+    <path d="M104 160 l0 -75 a45 45 0 0 1 45 -45 l0 120 z" fill="#E8402A"/>
+    <path d="M157 160 l0 -95 a42 42 0 0 1 42 -42 l0 137 z" fill="#B21E8E"/>
+    <path d="M207 118 l0 -55 a34 34 0 0 1 34 -34 l0 89 z" fill="#2E62C6"/>
+    <path d="M249 84 l0 -30 a26 26 0 0 1 26 -26 l0 56 z" fill="#7CB92C"/>
+  </g>
+</svg>
