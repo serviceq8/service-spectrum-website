@@ -37,4 +37,6 @@ render.yaml     Render static-site configuration
 - Email: abdullah@service-spectrum.com
 - Phone / WhatsApp: +965 6560 5879
 
-If the site moves to a custom domain (e.g. service-spectrum.com), update the `og:url` / structured-data URLs in `index.html`.
+## Domain
+
+The site's canonical domain is **https://service-spectrum.com** (set in canonical tags, Open Graph tags, structured data, robots.txt, and sitemap.xml). After deploying on Render, add `service-spectrum.com` as a custom domain in the Render dashboard (Settings → Custom Domains) and point the DNS records Render shows you at your registrar.
