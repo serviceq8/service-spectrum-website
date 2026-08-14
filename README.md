@@ -4,6 +4,8 @@ Official website for **Service Spectrum**, a website design and management compa
 
 **Live site:** deployed on [Render](https://render.com) as a static site.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/serviceq8/service-spectrum-website)
+
 ## Structure
 
 ```
