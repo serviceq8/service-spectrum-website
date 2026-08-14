@@ -32,7 +32,9 @@ render.yaml     Render static-site configuration
 3. In `index.html`, find the commented `facebook-domain-verification` meta tag near the top, paste your code, uncomment it, and push — Render redeploys automatically.
 4. The site already includes the business name, contact details, Privacy Policy, and Terms of Service pages Meta looks for.
 
-## Before going live — replace placeholders
+## Contact details
 
-- Phone number `+965 0000 0000` in `index.html` (contact section).
-- The `og:url` / structured-data URLs in `index.html` if you use a custom domain.
+- Email: abdullah@service-spectrum.com
+- Phone / WhatsApp: +965 6560 5879
+
+If the site moves to a custom domain (e.g. service-spectrum.com), update the `og:url` / structured-data URLs in `index.html`.

@@ -44,7 +44,7 @@ if (form) {
     const body = encodeURIComponent(
       `Name: ${data.get('name')}\nEmail: ${data.get('email')}\n\n${data.get('message')}`
     );
-    window.location.href = `mailto:eng.nusif@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:abdullah@service-spectrum.com?subject=${subject}&body=${body}`;
   });
 }
 
